@@ -31,7 +31,7 @@ notepad
 enter
 ```
 
-The above example will open notepad on a Windows machine.
+The above example will open notepad on a Windows machine using the run window.
 
 ## Licence
 
