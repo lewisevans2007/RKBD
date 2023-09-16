@@ -1,0 +1,8 @@
+# RKBD
+# Remote keyboard in python
+# GitHub: https://www.github.com/lewisevans2007/rkbd
+# Licence: GNU General Public License v3.0
+# By: Lewis Evans
+
+colorama==0.4.6
+keyboard==0.13.5
